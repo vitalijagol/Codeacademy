@@ -1,6 +1,6 @@
  
  
- <form method="post">
+<form method="post">
       <input type="text" name="number1">
       <input type="text" name="number2">
       <select name="operator" id="">
@@ -11,8 +11,8 @@
         <option>Divide</option>
         <option>Square</option>
       </select>
-      <button type="submit" name="submit" value="submit">Calculate</button>
-    </form>
+  <button type="submit" name="submit" value="submit">Calculate</button>
+</form>
 
 
 <?php
